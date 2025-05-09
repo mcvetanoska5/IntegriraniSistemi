@@ -1,0 +1,62 @@
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Repository.deps.json
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Repository.dll
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Repository.pdb
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Domain.dll
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Domain.pdb
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.csproj.AssemblyReference.cache
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.AssemblyInfo.cs
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesA.C84A8C5B.Up2Date
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.dll
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\refint\CoursesApplication.Repository.dll
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.pdb
+C:\Users\darso\source\repos\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\ref\CoursesApplication.Repository.dll
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Repository.deps.json
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Repository.dll
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Repository.pdb
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Domain.dll
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Domain.pdb
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.csproj.AssemblyReference.cache
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.AssemblyInfo.cs
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesA.C84A8C5B.Up2Date
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.dll
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\refint\CoursesApplication.Repository.dll
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.pdb
+C:\Users\darso\Documents\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\ref\CoursesApplication.Repository.dll
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Repository.deps.json
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Repository.dll
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Repository.pdb
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Domain.dll
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Domain.pdb
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.AssemblyInfo.cs
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.sourcelink.json
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesA.C84A8C5B.Up2Date
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.dll
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\refint\CoursesApplication.Repository.dll
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.pdb
+C:\Users\user\Downloads\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\ref\CoursesApplication.Repository.dll
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Repository.deps.json
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Repository.dll
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Repository.pdb
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Domain.dll
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\bin\Debug\net8.0\CoursesApplication.Domain.pdb
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.AssemblyInfo.cs
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.sourcelink.json
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesA.C84A8C5B.Up2Date
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.dll
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\refint\CoursesApplication.Repository.dll
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\CoursesApplication.Repository.pdb
+C:\Users\user\Desktop\6 semestar\Integrirani sistemi\CoursesApplication\CoursesApplication\CoursesApplication\CoursesApplication.Repository\obj\Debug\net8.0\ref\CoursesApplication.Repository.dll
