@@ -1,0 +1,41 @@
+﻿@model CoursesApplication.Domain.Models.Enrollment
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Enrollment</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <div class="row">
+            <a class="btn btn-success" style="width:200px; margin-left:28px" asp-action="Create">Insert New Product</a>
+        </div>
+        <form asp-action="">
+
+            <!--TODO: Put a hidden input for the CourseId-->
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="CourseId" />
+            <!--TODO: Put a checkbox input for the ReEnrolled-->
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="checkbox" asp-for="ReEnrolled" />
+            <!--TODO: Put a select element for the Students. You can use the SelectList from the controller method.
+                For reference, take a look for an example in the other models views
+            -->
+            <label asp-for="Student" class="control-label"></label>
+            <input asp-for="Student" class="form-control" />
+            <span asp-validation-for="Student" class="text-danger"></span>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
